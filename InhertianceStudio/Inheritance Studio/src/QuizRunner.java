@@ -1,5 +1,5 @@
 public class QuizRunner {
-    ArrayList<Questions>
+
     //loop through questions
     //1 printQuestion(text) and possibleAnswers(includes correct answer)
     // scanner
